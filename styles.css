@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* background-color: #197f5b; */
+}
+
+/* menu */
+.color-green{
+    color:#197f5b;
+}
+.color-yellow{
+    color:#ef9919;
+
+}
+.color-white{
+    color: #f9f5f4;
+}
+.color-black{
+    color:black;
+}
+.nav{
+    margin:2px;
+    text-align: right;
+}
+/* botones */
+.button{
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+    border:none;
+    
+}
+.fondo-boton{
+    background-color: white;
+    border: none;
+}
+/* acerca de mi */
+.border-text{
+    border-left:solid 5px #197f5b;
+    
+}
+.title{
+    font-size: 600;
+}
+/* descarga tu cv */
+.color-descarga{
+    border: none;
+    border-radius: 3px;
+    height: 50px;
+    background-color: #197f5b;
+    color:#f9f5f4;
+    
+}
+.center-button{
+    margin-left: auto;
+}
+.card{
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    text-align: center;
+
+}
+.justify-content-center{
+    justify-content: center;
+}
+.container{
+    width: 90%;
+    max-width: 1080px;
+    margin:auto;
+}    
